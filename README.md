@@ -2,4 +2,5 @@
 
 A brief explanation and a simple example
 
-- [インデックス](./main.md)
+- [はじめに](./main.md)
+- [インデックス](./index.md)
